@@ -1,11 +1,20 @@
 print(len('Hello. world'))
-print(5)
-print(5 + 6)
-print(6 - 5)
-print(5+5/2)
+a=5
+b=4
+c=2
+z=(a+b)
+x=(a-b)
+g=(a+a/c)
+print(z)
+print(x)
+print(g)
 f= 'Вторник'
 s= 'Понедельник, '
-print(s+f)
-print(12==2*2+(2*4))
-print(12**3)
-print(1728//2)
+q=s+f
+print(q)
+d=(c*c)+(c*b)
+e=d**3
+t=e//2
+print(d)
+print(e)
+print(t)
